@@ -63,8 +63,9 @@ A system for managing food orders and payments in a school canteen.
 ## 📫 Connect With Me
 
 - 🌐 GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- 📺 YouTube: Jaymar Caliso
-- 📘 Facebook: https://www.facebook.com/profile
+- 📺 YouTube: Jaymar Caliso https://www.youtube.com/@Jaymarcaliso
+- 📘 Facebook: Jaymarcaliso
+https://www.facebook.com/profile
 
 ---
 
